@@ -1,1 +1,1 @@
-#my_first_repository получил счетчик факториала
+# my_first_repository получил счетчик факториала
